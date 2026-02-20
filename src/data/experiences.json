@@ -1,0 +1,210 @@
+{
+    "experiences": [
+        {
+            "id": "1",
+            "title": "Mobile Developer",
+            "company": "JINBOO",
+            "startDate": "05/2024",
+            "endDate": "05/2025",
+            "description": "I developed features for the OBT system in both web (React) and mobile (React Native) versions, using TypeScript, Tailwind CSS, and Styled Components. \n I contributed to the migration of the web and mobile applications to a Monorepo, centralizing structures such as Redux, Zod schemas, and domain and business logic classes, promoting code reuse across platforms. This unification reduced code duplication and decreased the incidence of bugs. \n I implemented integrations with REST, GraphQL, and WebSocket APIs, facilitating communication between the applications and external services. \n I refactored visual components and classes, applying Clean Code and SOLID principles to reduce redundancy and minimize the occurrence of bugs.",
+            "skills": [
+                {
+                    "id": "1",
+                    "activity": "React"
+                },
+                {
+                    "id": "2",
+                    "activity": "Redux"
+                },
+                {
+                    "id": "3",
+                    "activity": "Styled Components"
+                },
+                {
+                    "id": "4",
+                    "activity": "Tailwind CSS"
+                },
+                {
+                    "id": "5",
+                    "activity": "React Native"
+                },
+                {
+                    "id": "6",
+                    "activity": "TypeScript"
+                },
+                {
+                    "id": "7",
+                    "activity": "GraphQL"
+                },
+                {
+                    "id": "8",
+                    "activity": "Monorepo"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Fullstack Developer",
+            "company": "Etiqueta Certa",
+            "startDate": "06/2023",
+            "endDate": "06/2024",
+            "description": "I developed the second version of the company’s SaaS system using modern technologies such as NestJS (Node.js), Prisma, MySQL, Next.js (React), and TypeScript, with a focus on generating labels in compliance with current legislation. The solution served approximately 200 suppliers for brands such as Renner, Centauro, C&A, and Marisa. \n I participated in the requirements gathering for the new system version and in the analysis of features not supported by the previous version, aiming to expand the services offered by the company. \n I performed maintenance and bug fixes on the first version of the SaaS system, developed in ASP.NET, and also worked on hosting and technical support with the infrastructure provider. \n I configured the production and staging environments for the new system version on AWS, using services such as ECS, EC2, CloudFront, RDS, among others, ensuring greater scalability and stability for the application. \n I developed an integration service with partners using .NET, responsible for automatically capturing and processing data, displaying it seamlessly within the system. The solution optimized workflow and reduced errors caused by manual input. \n I implemented deployment pipelines in GitLab using GitLab CI/CD to automate application publishing in the staging environment. This automation increased the development team’s efficiency, freeing up capacity to focus on new deliveries.",
+            "skills": [
+                {
+                    "id": "1",
+                    "activity": "React"
+                },
+                {
+                    "id": "2",
+                    "activity": "NestJS"
+                },
+                {
+                    "id": "3",
+                    "activity": "Prisma"
+                },
+                {
+                    "id": "4",
+                    "activity": "MySQL"
+                },
+                {
+                    "id": "5",
+                    "activity": "Next.js"
+                },
+                {
+                    "id": "6",
+                    "activity": "TypeScript"
+                },
+                {
+                    "id": "7",
+                    "activity": "AWS"
+                },
+                {
+                    "id": "8",
+                    "activity": "GitLab"
+                },
+                {
+                    "id": "9",
+                    "activity": "GitLab CI/CD"
+                },
+                {
+                    "id": "10",
+                    "activity": ".NET"
+                },
+                {
+                    "id": "11",
+                    "activity": "Docker"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Frontend Developer",
+            "company": "Senai - Institute of Technology",
+            "startDate": "03/2022",
+            "endDate": "06/2023",
+            "description": "I worked on the MWM project, developing a platform in React and TypeScript for real-time monitoring of OEE (Overall Equipment Effectiveness) on production lines. The solution integrated indicators that were previously scattered across various systems, centralizing analysis and increasing operational productivity.\nI participated in the SESI Audit project, contributing to requirements gathering in partnership with the client and helping define the MVP (Minimum Viable Product).\nI worked on the frontend development of the Ergo SESI project using TypeScript and Next.js, focusing on completing the system aimed at optimizing the ergonomic analysis workflow within the institution.\nI implemented automated tests with Cypress in internal research projects, covering flows such as login, password recovery, and user registration. The automation aimed to create reusable generic modules for client projects.",
+            "skills": [
+                {
+                    "id": "1",
+                    "activity": "React"
+                },
+                {
+                    "id": "2",
+                    "activity": "TypeScript"
+                },
+                {
+                    "id": "3",
+                    "activity": "Next.js"
+                },
+                {
+                    "id": "4",
+                    "activity": "Cypress"
+                },
+                {
+                    "id": "5",
+                    "activity": "Antd UI"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Fullstack Developer",
+            "company": "Driven",
+            "startDate": "06/2021",
+            "endDate": "06/2023",
+            "description": "I technically led a class of approximately 20 students over an 8-month course, coordinating sprints and educational projects. I provided continuous support by answering questions and removing technical blockers to ensure smooth learning progress.\nI reviewed students' final projects, identifying opportunities for code improvement and applying Clean Code principles. I also researched content beyond the course curriculum to enhance the technical quality of the deliverables.\nI contributed to the development of internal automation projects aimed at reviewing student projects, optimizing evaluation time, and standardizing assessment criteria.\nI created supplementary materials on topics such as React, Node.js, and Docker, with the goal of deepening the concepts covered in class and providing additional learning support.",
+            "skills": [
+                {
+                    "id": "1",
+                    "activity": "React"
+                },
+                {
+                    "id": "2",
+                    "activity": "Node.js"
+                },
+                {
+                    "id": "3",
+                    "activity": "Docker"
+                },
+                {
+                    "id": "4",
+                    "activity": "Git"
+                },
+                {
+                    "id": "5",
+                    "activity": "TypeScript"
+                },
+                {
+                    "id": "6",
+                    "activity": "Jest"
+                },
+                {
+                    "id": "7",
+                    "activity": "Cypress"
+                },
+                {
+                    "id": "8",
+                    "activity": "AWS"
+                },
+                {
+                    "id": "9",
+                    "activity": "Github CI/CD"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "title": "Frontend Developer",
+            "company": "Iventis",
+            "startDate": "06/2020",
+            "endDate": "03/2022",
+            "description": "I developed new templates for clients of the white-label marketplace platform using React.js and SCSS, serving brands such as Itaú, Avon, and Porto Seguro. The agile adaptation of templates enabled the solution to scale to new partners.\nI implemented UTM tags to track partner redirects to the system, contributing relevant data to conversion and sales metrics.\nI implemented scripts in Google Tag Manager to measure user interactions on the marketplace, such as clicks and navigation, supporting the marketing team in behavior analysis.\nI implemented feature toggle mechanisms in the code, allowing functionality customization per client and making it easier to maintain the codebase.\nI developed a theming system and customizable color palettes per client, reducing styling bugs and improving the visual consistency of the platform.\nI improved the marketplace’s accessibility indicators based on W3C guidelines, enhancing usability for people with disabilities.\nI optimized the platform’s performance and SEO metrics based on Google Lighthouse results, improving load times and user experience.",
+            "skills": [
+                {
+                    "id": "1",
+                    "activity": "React"
+                },
+                {
+                    "id": "2",
+                    "activity": "SCSS"
+                },
+                {
+                    "id": "3",
+                    "activity": "Google Tag Manager"
+                },
+                {
+                    "id": "4",
+                    "activity": "Google Lighthouse"
+                },
+                {
+                    "id": "5",
+                    "activity": "Google Analytics"
+                },
+                {
+                    "id": "6",
+                    "activity": "Redux"
+                }
+            ]
+        }
+    ]
+}
